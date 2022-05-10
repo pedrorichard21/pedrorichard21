@@ -1,4 +1,4 @@
-*sobre mim
+*Sobre mim
 estudante alura
 - 👋 ola meu nome é pedro email(@pedrorichard21)
 - 👀 eu me interesso em aprender a programar jogos e sites
